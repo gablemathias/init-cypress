@@ -1,5 +1,5 @@
 
-# End-to-End Testing - Cypress - Init Web page
+# End-to-End Testing - Cypress - ]init[
 
 The goal here is:
 1. Access the webpage
