@@ -1,5 +1,30 @@
 {
   "dependencies": {
     "cypress": "^13.15.1"
-  }
+  },
+  "name": "e2einittests",
+  "version": "1.0.0",
+  "description": "E2E ]init[ Automatized Tests using Cypress",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gablemathias/init-cypress.git"
+  },
+  "keywords": [
+    "Cypress",
+    "E2E",
+    "JavaScript",
+    "Automation",
+    "Tests"
+  ],
+  "author": "Gabriel Mathias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gablemathias/init-cypress/issues"
+  },
+  "homepage": "https://github.com/gablemathias/init-cypress#readme"
 }
