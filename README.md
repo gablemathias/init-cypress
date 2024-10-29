@@ -3,7 +3,8 @@
 
 The goal here is:
 1. Access the webpage
-2. Visit and Fill Job application Form 
+2. Visit and Fill Job application Form
+
 ![image](https://github.com/user-attachments/assets/771cf138-5478-4775-acf4-4481b5eac039)
 
 Two specs, one for each task (Cypress)
