@@ -28,6 +28,7 @@ Test Data: Personal information, curriculum, check-boxing preferences
 Expected/Intended Results: Once user fill and checkbox the form, the application will be send correctly.   
 
 Actual Results: As Expected
+
 Test Status – Pass/Fail: Pass
 
 ![image](https://github.com/user-attachments/assets/771cf138-5478-4775-acf4-4481b5eac039)
