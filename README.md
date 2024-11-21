@@ -1,9 +1,34 @@
 
-# End-to-End Testing - Cypress - ]init[
+# End-to-End Testing - Cypress - ]init[ Website
 
-The goal here is:
-1. Access the webpage
-2. Visit and Fill Job application Form
+The overall process:
+
+1. Create user stories with Jira
+2. Document with Confluence
+3. Verify the process through manual UI test cases
+4. E2E Automated tests
+5. Report results
+
+Test Scenario: Successfully send a Job application through the career page on https://www.init.pt/en/career-init-dcp
+
+Test Steps:
+
+    1. The user navigates to init.pt
+    2. The user clicls the 'Career' button.
+    3. The user scrolldown the page and clicks 'Nothing suitable? Send us an unsolicited application' button.
+    4. The user fills the form accordingly.
+    5. The user clicks the 'Send application' button.
+
+Prerequisites: A curriculum and an ID document to attach.
+
+Browser: Chromium v130. Firefox v129
+
+Test Data: Personal information, curriculum, check-boxing preferences
+
+Expected/Intended Results: Once user fill and checkbox the form, the application will be send correctly.   
+
+Actual Results: As Expected
+Test Status – Pass/Fail: Pass
 
 ![image](https://github.com/user-attachments/assets/771cf138-5478-4775-acf4-4481b5eac039)
 
